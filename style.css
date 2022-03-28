@@ -1,0 +1,3 @@
+.list__item:nth-child(){
+    color: red;
+}
